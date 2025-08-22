@@ -1,0 +1,8 @@
+**/bin
+**/obj
+**/.vs
+**/*.log
+Logs/**
+**/.idea
+**/.vscode
+**/tls-gen
